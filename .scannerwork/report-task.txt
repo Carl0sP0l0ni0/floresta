@@ -1,0 +1,6 @@
+projectKey=floresta
+serverUrl=http://127.0.0.1:9000
+serverVersion=10.7.0.96327
+dashboardUrl=http://127.0.0.1:9000/dashboard?id=floresta
+ceTaskId=e7d95ebc-99c3-4d39-8fbe-ae7c2ce5a688
+ceTaskUrl=http://127.0.0.1:9000/api/ce/task?id=e7d95ebc-99c3-4d39-8fbe-ae7c2ce5a688
